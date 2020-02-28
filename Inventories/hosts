@@ -1,0 +1,4 @@
+saada_serv ansible_host=10.5.169.235 ansible_user=root
+
+[wordpress]
+saada_serv
